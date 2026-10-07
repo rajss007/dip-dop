@@ -2,6 +2,7 @@
 
 ## Description
 
+
 This project is a handwritten-digit recognition system built with **Keras and TensorFlow** using the **MNIST dataset**.
 
 The project trains a convolutional neural network (CNN) to classify grayscale handwritten digit images into one of the ten classes **0–9**. The training pipeline:
